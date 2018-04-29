@@ -1,6 +1,8 @@
 # Write a speak_to_grandma method.
 string = "I LOVE YOU GRANDMA!"
-if "I LOVE YOU GRANDMA!"
+if string
+  puts "I LOVE YOU TOO PUMPKIN!"
+end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
